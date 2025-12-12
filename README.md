@@ -1,6 +1,6 @@
 # Catthode for Superfile
 
-> **From CRT to OLED.** Bringing warmth back to a world of cold themes.
+> **From CRT to OLED.** Bringing warmth back to a world of cold themes. [cattho.de](https://cattho.de/)
 
 Catthode is a high-contrast, retro-futuristic theme designed for prolonged coding sessions. It blends the crushed blacks of modern OLED displays with the comforting, warm glow of analog tungsten filaments.
 
